@@ -7,7 +7,7 @@
 <dl>
 	<dt>旧DarkMaze</dt>
 	<dd>
-	![oldDarkMaze](./image/oldDarkMaze.png"oldDarkMaze")
+	<img src="./image/oldDarkMaze.png"/>
 	</dd>
 	<dt>新DarkMaze</dt>
 	<dd>
