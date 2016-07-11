@@ -11,7 +11,7 @@
 	</dd>
 	<dt>新DarkMaze</dt>
 	<dd>
-	![newDarkMaze](./image/newDarkMaze.png)
+	<img src="./image/newDarkMaze.png"/>
 	</dd>
 	<dt><h3>特徴</h3></dt>
 	<dd>
