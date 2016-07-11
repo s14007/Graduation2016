@@ -7,7 +7,7 @@
 <dl>
 	<dt>旧DarkMaze</dt>
 	<dd>
-	![oldDarkMaze](image/oldDarkMaze.png)
+	![oldDarkMaze](http://github.com/s14007/Graduation2016/image/oldDarkMaze.png)
 	</dd>
 	<dt>新DarkMaze</dt>
 	<dd>
