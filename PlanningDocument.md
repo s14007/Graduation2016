@@ -7,11 +7,11 @@
 <dl>
 	<dt>旧DarkMaze</dt>
 	<dd>
-	![oldDarkMaze](image/oldDarkMaze.png)
+	![oldDarkMaze](./image/oldDarkMaze.png"oldDarkMaze")
 	</dd>
 	<dt>新DarkMaze</dt>
 	<dd>
-	![newDarkMaze](image/newDarkMaze.png)
+	![newDarkMaze](./image/newDarkMaze.png)
 	</dd>
 	<dt><h3>特徴</h3></dt>
 	<dd>
