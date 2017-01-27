@@ -1,7 +1,5 @@
 # 要件定義書
 
-参考資料 :[ 要件定義書完全マニュアル](http://www.atmarkit.co.jp/ait/articles/0911/19/news109.html)
-
 <dl>
 	<dt><h2>1.システム導入の目的と目標</h2></dt>
 	<dd>
@@ -58,8 +56,8 @@
 			<dd>Androidでの実装が必要になります。</dd>
 			<dt>4.3 3D</dt>
 			<dd>より臨場感を出すため、3Dでの実装が必要になります。</dd>
-			<dt>4.4 ランク</dt>
-			<dd>ランクに伴って、アイテムの開放を行ってまいります。</dd>
+			<dt>4.4 レベル</dt>
+			<dd>レベルに伴って、アイテムの開放を行ってまいります。</dd>
 			<dt>4.5 敵</dt>
 			<dd>恐怖感をユーザーに与えるため敵の実装をします。</dd>
 			<dt>4.6 アイテム</dt>
@@ -68,79 +66,7 @@
 	</dd>
 	<dt><h2>5.入力要求と出力要求</h2></dt>
 	<dd>
-		<dl>
-			<dt>5.1 入力要求</dt>
-			<dd>
-				<dl>
-					<dt>5.1.1 タイトル画面での入力要求</dt>
-					<dd>
-						<dl>
-							<dt>初回起動時</dt>
-							<dd>ユーザー名の入力</dd>
-							<dt>2回目以降起動時</dt>
-							<dd>Start ボタンをタップ</dd>
-							<dt>タイトル画面</dt>
-							<dd><img src="./image/TitleScreen.png"/></dd>
-						</dl>
-					</dd>
-					<dt>5.1.2 セレクト画面での入力要求</dt>
-					<dd>
-						<dl>
-							<dt>迷路選択</dt>
-							<dd></dd>
-							<dt>アイテム</dt>
-							<dd></dd>
-							<dt></dt>
-							<dd></dd>
-							<dt>セレクト画面</dt>
-							<dd><img src="./image/SelectScreen.png"/></dd>
-						</dl>
-					</dd>
-					<dt>5.1.3 アイテム画面での入力要求</dt>
-					<dd>
-						<dl>
-							<dt>アイテムの選択</dt>
-							<dd></dd>
-							<dd><img src="./image/ItemScreen.png"/></dd>
-						</dl>
-					</dd>
-					<dt>5.1.4 迷路画面での入力要求</dt>
-					<dd>
-						<dl>
-							<dt>プレイヤーの移動</dt>
-							<dd></dd>
-							<dd><img src="./image/MazeScreen.png"/></dd>
-						</dl>
-					</dd>
-					<dt>5.1.5 リザルト画面での入力要求</dt>
-					<dd>
-						<dl>
-							<dt>OKのタップ</dt>
-							<dd></dd>
-							<dt>Exitのタップ</dt>
-							<dd></dd>
-							<dd><img src="./image/ResultExpScreen.png"/></dd>
-							<dd><img src="./image/ResultScreen.png"/></dd>
-						</dl>
-					</dd>
-				</dl>
-			</dd>
-		</dl>
-	</dd>
-	<dt><h2>6.インターフェイス</h2></dt>
-	<dd>
-		<dl>
-			<dt>1.タイトル画面</dt>
-			<dd></dd>
-			<dt>2.セレクト画面</dt>
-			<dd></dd>
-			<dt>3.アイテム画面</dt>
-			<dd></dd>
-			<dt>4.迷路画面</dt>
-			<dd></dd>
-			<dt>5.リザルト画面</dt>
-			<dd></dd>
-		</dl>
-	</dd>
+		<a href="https://github.com/s14007/Graduation2016/blob/master/SpecificationDocument.md">画面レイアウト・説明</a>を参照してください。
+		</dd>
 </dl>
 
